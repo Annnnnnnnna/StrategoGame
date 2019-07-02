@@ -1,0 +1,4 @@
+﻿ enum AlgorithmType {
+    minmax,
+    alphabeta
+}
